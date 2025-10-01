@@ -1,0 +1,19 @@
+
+hola
+NOTA: Tarea individual.
+
+En esta práctica se pretende que el alumnado adquiera experiencia en la creación y ejecución de aplicaciones que interactúan mediante entrada y salida estándar, uno de los conceptos fundamentales en la asignatura de PSP. El ejercicio combina aspectos básicos de la programación en Java (generación de números, ordenación y documentación del código) con el uso de procesos y tuberías en el sistema operativo, lo que permite entender cómo diferentes programas pueden comunicarse entre sí.
+
+A lo largo de las tres partes de la tarea, se pondrán en práctica las siguientes competencias:
+
+Implementar programas que lean y escriban datos desde la consola.
+
+Generar y manipular información de forma automática (números aleatorios).
+
+Documentar adecuadamente el código mediante comentarios y Javadoc.
+
+Utilizar el operador de tubería (|) para enlazar la salida de un programa con la entrada de otro, reforzando la idea de procesos encadenados.
+
+Elaborar un pequeño manual de uso con capturas y ejemplos de pruebas, desarrollando también la capacidad de explicar el funcionamiento de los programas.
+
+Con esta práctica no solo se evaluará la corrección técnica de las aplicaciones, sino también la calidad de la documentación y la claridad con la que se presenta el proceso de pruebas. De este modo, el alumnado trabajará de manera integral en el desarrollo, la verificación y la presentación de soluciones software.
