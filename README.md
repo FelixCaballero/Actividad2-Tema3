@@ -4,13 +4,14 @@ Este repositorio contiene tres aplicaciones Java que trabajan en conjunto para l
 
 ## Estructura del proyecto
 
-.
-├── lectorTexto.java # Carpeta aplicacion java LectorTexto
-├── filtraLineas.java # Carpeta aplicacion java FiltrarLineas
-├── contadorPalabras.java # Carpeta aplicacion java ContadorPalabras
-├── lectorTexto.jar # Archivo ejecutable del lector
-├── filtraLineas.jar # Archivo ejecutable del filtrador
-└── contadorPalabras.jar # Archivo ejecutable del contador
+```
+├── lectorTexto.java         # Carpeta aplicacion java LectorTexto
+├── filtraLineas.java        # Carpeta aplicacion java FiltrarLineas
+├── contadorPalabras.java    # Carpeta aplicacion java ContadorPalabras
+├── lectorTexto.jar          # Archivo ejecutable del lector
+├── filtraLineas.jar         # Archivo ejecutable del filtrador
+└── contadorPalabras.jar     # Archivo ejecutable del contador
+```
 
 ---
 
